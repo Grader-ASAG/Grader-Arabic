@@ -16,7 +16,7 @@ Introduce (question, student answer, reference answer) to the "getScore" functio
 
 2. Instructions to run the code   
 
-   1. The folder "Requirements" includes files data(the trained model, semantic space, Word Embeddings, words-dictionary,stop words, Min-Max dictionary(TFlog Wheights))
+   1. Add a folder "Requirements" to include  files data(the trained model, semantic space, Word Embeddings, words-dictionary,stop words, dictionary(TFlog Wheights))
 
    2. For Arabic:  Put the content of the link bolow in the "requirements" folder : 
       https://drive.google.com/drive/folders/1wGI8jdHtk1Ny0h171RUa1qEKcjp3fznh?usp=sharing
