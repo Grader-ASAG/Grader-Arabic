@@ -1,4 +1,4 @@
-# Grader-Arabic-English
+# Grader-Arabic
 Automatic short Answer Grading - Supervised Learning Model 
 Version 1.0
                                     
